@@ -1,0 +1,4 @@
+*.log
+*.db
+gitkek.html
+.DS_Store
